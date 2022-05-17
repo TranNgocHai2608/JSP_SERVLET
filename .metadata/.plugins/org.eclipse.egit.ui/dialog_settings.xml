@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="Trần Ngọc Hải &lt;haj12304@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Trần Ngọc Hải &lt;haj12304@gmail.com&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/TranNgocHai2608/jsp-servlet-jdbc.git"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\asus\.git">
+			<item value="false"/>
+			<item value="Trần Ngọc Hải &lt;haj12304@gmail.com&gt;"/>
+			<item value="commit commit"/>
+			<item value="Trần Ngọc Hải &lt;haj12304@gmail.com&gt;"/>
+			<item value="dfec0e7b25d869c09b9914c836d6e1093b30e4b4"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>

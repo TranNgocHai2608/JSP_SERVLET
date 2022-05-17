@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 0 elements to &apos;new-jdbc/src/main/java/com.javaweb.controller.admin&apos;&#x0D;&#x0A;- Destination element: &apos;new-jdbc/src/main/java/com.javaweb.controller.admin&apos;" description="Copy compilation units" destination="=new-jdbc/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.javaweb.controller.admin" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1637066390674" units="0" version="1.0"/>
+</session>
